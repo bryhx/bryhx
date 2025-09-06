@@ -3,3 +3,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bryhx/Pac/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/bryhx/Pac/output/pacman-contribution-graph.svg">
 </picture>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/bryhx/Pac/output/pacman-contribution-graph.svg)
